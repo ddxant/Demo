@@ -10,6 +10,9 @@ class Human {
     fun Hello() {
         println("Hello Fat")
     }
+
+    val a = 19
+
 }
 
 

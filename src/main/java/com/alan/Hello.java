@@ -6,4 +6,10 @@ public class Hello {
     Person p = new Person();
     p.hello();
     }
+
+    Integer age = 18;
+
+
+
 }
+
